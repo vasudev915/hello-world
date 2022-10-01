@@ -9,7 +9,12 @@
     <i class="fa fa-envelope icon"></i>
     <input class="input-field" type="text" placeholder="Email" name="email">
   </div>
-
+  
+   <div class="input-container">
+    <i class="fa fa-envelope icon"></i>
+    <input class="input-field" type="text" placeholder="DOB" name="DOB">
+  </div>
+  
   <div class="input-container">
     <i class="fa fa-key icon"></i>
     <input class="input-field" type="password" placeholder="Password" name="psw">
