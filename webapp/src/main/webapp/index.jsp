@@ -1,7 +1,7 @@
 <form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
     <h1>Sign Up</h1>
-    <p>Please fill in this form to create an account nigga.</p>
+    <p>Please fill in this form to create an account lil nigga.</p>
     <hr>
 
     <label for="Name"><b>Name</b></label>
@@ -24,7 +24,7 @@
 
     <div class="clearfix">
       <button type="button" class="cancelbtn">Cancel</button>
-      <button type="submit" class="signupbtn">Sign Up Kar</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
     </div>
   </div>
 </form>
