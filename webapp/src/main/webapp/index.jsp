@@ -1,11 +1,14 @@
 <form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
     <h1>Sign Up</h1>
-    <p>Shut Up and fill in this form to create an account lil nigga, Donr't play with me.</p>
+    <p>Fill in this form to create an account lil nigga, Donr't play with me.</p>
     <hr>
 
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" required>
+
+    <label for="something"><b>something</b></label>
+    <input type="something" placeholder="Enter something" name="something" required>
      
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" required>
