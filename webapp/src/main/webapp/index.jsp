@@ -1,7 +1,7 @@
 <form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
     <h1>Sign Up</h1>
-    <p>Fill in this form to create an account lil nigga, Donr't play with me.</p>
+    <p>Fill in this form to create an account.</p>
     <hr>
 
     <label for="Name"><b>Name</b></label>
