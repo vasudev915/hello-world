@@ -1,7 +1,7 @@
 <form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
     <h1>Sign Up</h1>
-    <p>vasu</p>
+    <p>Please enter your details to sign up!</p>
     <hr>
 
     <label for="Name"><b>Name</b></label>
